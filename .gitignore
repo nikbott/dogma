@@ -1,0 +1,7 @@
+.vscode
+*.fasta
+*.fastq
+*.o
+*.tar*
+*.txt
+dogma
