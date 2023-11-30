@@ -1,6 +1,0 @@
-* Implement rna translation to aminoacids
-* Error handling
-    - Identify bad formatting
-* Code coverage
-* Code optimization for speed and security
-* I/O from standard input
